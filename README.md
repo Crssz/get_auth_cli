@@ -9,9 +9,6 @@ This tool generates OAuth 2.0 authentication tokens that can be used with YouTub
 ## Features
 
 - Simple OAuth 2.0 authentication flow
-- Automatic token refresh for expired tokens
-- Validates existing tokens
-- Clean command-line interface
 - No upload functionality - focuses solely on token generation
 
 ## Prerequisites
