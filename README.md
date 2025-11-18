@@ -38,7 +38,7 @@ This tool generates OAuth 2.0 authentication tokens that can be used with YouTub
    - Add the scope: https://www.googleapis.com/auth/youtube.upload
    - Add your email as a test user (if using External)
 4. Create OAuth client ID:
-   - Application type: Desktop app
+   - Application type: Web application
    - Name: Give it a descriptive name (e.g., "YouTube Token Generator")
    - **IMPORTANT**: Add authorized redirect URI:
      * Click "ADD URI" under "Authorized redirect URIs"
